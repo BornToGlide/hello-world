@@ -1,3 +1,5 @@
 to jest nowy plik z polskimi literkami 
 
 ążśśśćżć
+
+19.06.18 17:48 doałem zmianę w satart
